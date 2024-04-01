@@ -175,7 +175,7 @@ file.close()
 ### Результат:
 Исходный текст:
 ![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
-Что получилось послеу даления:
+Что получилось после удаления:
 ![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5(1).png)
 Сравнение с исходным текстом:
 ![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5(2).png)
